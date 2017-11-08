@@ -29,6 +29,7 @@ const defaults = _.extend({}, libDefaults, localOptions);
 
 program
   .version(pkg.version)
+  .option('--assetsPath [dir]', 'Serve assets from this location', defaults.assetsPath)
   .usage('<slides.md> [options]')
   .option('-D, --disable-auto-open', 'Disable auto-opening your web browser', defaults.disableAutoOpen)
   .option('-H, --highlight-theme <theme>', `Highlight theme [${libDefaults.highlightTheme}]`, defaults.highlightTheme)
