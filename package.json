@@ -37,7 +37,7 @@
     "highlight.js": "9.12.0",
     "image-data-uri": "1.0.0",
     "livereload": "0.6.3",
-    "lodash": "4.17.4",
+    "lodash": "4.17.15",
     "mustache": "2.3.0",
     "open": "0.0.5",
     "reveal.js": "3.5.0",
