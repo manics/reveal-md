@@ -39,7 +39,7 @@
     "livereload": "0.6.3",
     "lodash": "4.17.4",
     "mustache": "2.3.0",
-    "open": "0.0.5",
+    "open": "7.0.4",
     "reveal.js": "3.5.0",
     "yaml-front-matter": "3.4.0"
   },
